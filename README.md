@@ -52,3 +52,5 @@ interface bridge vlan add bridge=SW2 tagged=SW2,ether8 vlan-ids=10
 interface bridge vlan add bridge=SW2 tagged=SW2,ether8 vlan-ids=20
 ```
 
+Updated topography.
+![alt text](images/trunked.png)
